@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "electron-server",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
